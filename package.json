@@ -9,6 +9,7 @@
   "author": "Ameya Pednekar",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.13.3",
     "wunderground-api": "^1.1.4"
   }
 }
