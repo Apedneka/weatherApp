@@ -1,4 +1,4 @@
-# weatherapp
+```# weatherapp
 This app is an experiment with node.js. I'll be pulling down API data from Wunderground, and checking thr forecast for rain. I analyze the probablity for how many times it rains vs predictions.
 
 Using 
@@ -11,10 +11,10 @@ Using
 Usage
 ==
 To install node dependencies
-'''npm install'''
+```npm install```
 
 To run
-'''npm index'''
+```npm index```
 
 listen on port 3000. 
 
