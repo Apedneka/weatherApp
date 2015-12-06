@@ -1,4 +1,4 @@
-```# weatherapp
+# weatherapp
 This app is an experiment with node.js. I'll be pulling down API data from Wunderground, and checking thr forecast for rain. I analyze the probablity for how many times it rains vs predictions.
 
 Using 
