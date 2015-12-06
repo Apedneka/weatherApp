@@ -1,10 +1,21 @@
 # weatherapp
-This app is an experiment with node.js. I'll be using API data to see the accuracy of forecasts.
+This app is an experiment with node.js. I'll be pulling down API data from Wunderground, and checking thr forecast for rain. I analyze the probablity for how many times it rains vs predictions.
+
+Using 
+- node.js
+- express
+- node-restful
+- body-parser 
 
 ==
-To Run
+Usage
 ==
--npm install for dependencies
--npm index
+To install node dependencies
+'''npm install'''
 
-Fork me if you so have the desire.
+To run
+'''npm index'''
+
+listen on port 3000. 
+
+
