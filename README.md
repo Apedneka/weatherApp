@@ -1,5 +1,8 @@
 # weatherapp
-This app is an experiment with node.js. I'll be pulling down API data from Wunderground, and checking thr forecast for rain. I analyze the probablity for how many times it rains vs predictions.
+This app is an experiment with node.js. 
+- I'll be pulling down API data from Wunderground 
+- Checking the forecast for rain. It'll remind me via email notifications if it's going to rain
+- I'll do some simple statistics on forecast accuracy
 
 Using 
 - node.js

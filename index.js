@@ -1,5 +1,5 @@
 var Wunderground = require('wunderground-api');
-var client = new Wunderground('d8483e016960a875', '10035');
+var client = new Wunderground('d8483e016960a875', 'Mumbai');
 
 var express = require ('express');
 var app = express();
