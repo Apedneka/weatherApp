@@ -1,5 +1,5 @@
 var Wunderground = require('wunderground-api');
-var client = new Wunderground('d8483e016960a875', 'Mumbai');
+var client = new Wunderground('d8483e016960a875', 'San Fransisco');
 
 var express = require ('express');
 var app = express();
@@ -12,6 +12,7 @@ app.get('/forecast',function(req,res){
 });
 	
 });
+
 
 app.listen(3000);
 console.log('listening on port 3000');
