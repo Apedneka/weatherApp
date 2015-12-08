@@ -4,12 +4,13 @@ This app is an experiment with node.js.
 - Checking the forecast for rain. It'll remind me via email notifications if it's going to rain
 - I'll do some simple statistics on forecast accuracy
 
-I'm continually making improvements
+I'm continually making improvements. Maybe pull from multiple APIs to exploit nodejs' abilities
 
 Using 
 - node.js
 - express
 - node-restful
+- node-mysql
 - body-parser 
 
 ==
