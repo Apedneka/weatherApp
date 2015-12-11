@@ -9,6 +9,7 @@
   "author": "Ameya Pednekar",
   "license": "MIT",
   "dependencies": {
+    "ejs": "^2.3.4",
     "express": "^4.13.3",
     "mysql": "^2.9.0",
     "wunderground-api": "^1.1.4"
